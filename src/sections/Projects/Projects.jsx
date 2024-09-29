@@ -1,5 +1,5 @@
 import styles from "./ProjectsStyles.module.css";
-import viber from "../../assets/logo_icon.png";
+import viber from "../../assets/netflix_favicon.ico";
 import calc from "../../assets/calc-logo.jpg";
 import hipster from "../../assets/hipster.png";
 import fitLift from "../../assets/counter-app.png";
@@ -12,9 +12,9 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={viber}
-          link="https://github.com/Hackyhus/Chatapp.git"
-          h3="Chatapp"
-          p="A Chatting App"
+          link="https://exquisite-taiyaki-1bcb57.netlify.app"
+          h3="Netflix"
+          p="A Netflix clone"
         />
         <ProjectCard
           src={calc}

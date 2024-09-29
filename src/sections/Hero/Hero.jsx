@@ -58,9 +58,9 @@ function Hero() {
         <p className={styles.description}>
           Highly motivated and detail-oriented frontend developer with a passion
           for crafting exceptional user experiences. Proficient in HTML, CSS,
-          JavaScript, and frameworks like React and Angular.
+          JavaScript, and frameworks like React.js.
         </p>
-        <a href={CV} download>
+        <a href="" download>
           <button className="hover">Resume</button>
         </a>
       </div>
